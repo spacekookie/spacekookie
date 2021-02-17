@@ -12,7 +12,7 @@ GitHub is no exception to this and while I have an account to participate in oth
 I don't want to encourage people to use it by hosting my own projects here. 
 
 * 🔧 Projects I work on as part of my main research: https://git.qaul.org/spacekookie
-* 🍵 Projects I work on in my free time: [https://git.spacekookie.de](https://git.spacekookie.de/kookienomicon/about/)
+* 🍵 Projects I work on in my free time: [https://dev.spacekookie.de](https://dev.spacekookie.de/kookie/nomicon)
 
 [sponsors]: https://github.com/sponsors/spacekookie
 
