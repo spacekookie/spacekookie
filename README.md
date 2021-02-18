@@ -11,7 +11,7 @@ and that companies have far too much power over our lives.
 GitHub is no exception to this and while I have an account to participate in other people's projects (NixOS, and Rust for example),
 I don't want to encourage people to use it by hosting my own projects here. 
 
-* 🔧 Projects I work on as part of my main research: https://git.qaul.org/spacekookie
+* 🔧 Projects I work on as part of my main research: [https://git.qaul.org/spacekookie](https://git.qaul.org/users/spacekookie/projects)
 * 🍵 Projects I work on in my free time: [https://dev.spacekookie.de](https://dev.spacekookie.de/kookie/nomicon)
 
 [sponsors]: https://github.com/sponsors/spacekookie
