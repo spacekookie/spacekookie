@@ -23,6 +23,6 @@ I don't want to encourage people to use it by hosting my own projects here.
 * I like getting e-mails: kookie@spacekookie.de, you can GPG encrypt them with [this][key] key!
 * XMPP: kookie@spacekookie.de
 * Matrix: [@spacekookie:fairydust.space](https://matrix.to/#/@spacekookie:fairydust.space)
-* IRC (Freenode): spacekookie
+* IRC (libera.chat): spacekookie
 
 [key]: https://spacekookie.de/555F2E4B6F87F91A4110.txt
