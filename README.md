@@ -6,7 +6,7 @@ My pronouns are ✨ **they/them** ✨!
 
 ---
 
-**Most of my projects are not hosted on GitHub!** I believe that the internet should be a decentralised network, 
+**None of my projects are hosted on GitHub!** I believe that the internet should be a decentralised network, 
 and that companies have far too much power over our lives.
 GitHub is no exception to this and while I have an account to participate in other people's projects (NixOS, and Rust for example),
 I don't want to encourage people to use it by hosting my own projects here. 
@@ -23,6 +23,6 @@ I don't want to encourage people to use it by hosting my own projects here.
 * I like getting e-mails: kookie@spacekookie.de, you can GPG encrypt them with [this][key] key!
 * XMPP: kookie@spacekookie.de
 * Matrix: [@spacekookie:fairydust.space](https://matrix.to/#/@spacekookie:fairydust.space)
-* IRC (libera.chat): spacekookie
+* IRC (libera.chat/ hackint): spacekookie
 
 [key]: https://spacekookie.de/555F2E4B6F87F91A4110.txt
