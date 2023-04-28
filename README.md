@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kookie
 
 I'm an independent software researcher living in Berlin. 
-I have a [sponsors] page, if you want to learn more about the work I do.
+I have a [sponsors] page, if you want to learn more about the work I do, and how you can support me!
 My pronouns are ✨ **they/them** ✨!
 
 ---
