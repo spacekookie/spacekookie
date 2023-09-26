@@ -34,6 +34,6 @@ In that spirit, I have code on the following forges:
 * I like getting e-mails: kookie@spacekookie.de
 * Matrix: [@spacekookie:fairydust.space](https://matrix.to/#/@spacekookie:fairydust.space)
 * IRC (libera.chat/ hackint): spacekookie
-* Saying "spacekookie" backwards three times, spinning in a circle, and downing a glass of soy milk may summon me in a nearby mirror
+* Saying "spacekookie" backwards three times, spinning in a circle, and downing a glass of soy milk MAY (see RFC 2119) summon me in a nearby mirror
 
 [key]: https://spacekookie.de/555F2E4B6F87F91A4110.txt
