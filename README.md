@@ -21,7 +21,6 @@ But that's not a reason not to try.
 
 In that spirit, I have code on the following forges:
 
-- 📡 https://git.irde.st/spacekookie — the work I do as part of my research project [Irdest](https://irde.st)
 - 📚 https://codeberg.org/kookie — general purpose collective forge, which I use for most of my public projects currently
 - 🍵 https://cyberchaos.dev/kookie — CCC-adjacent forge where I keep my private infrastructure and Work-in-progress experiments
 
