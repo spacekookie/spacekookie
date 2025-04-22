@@ -29,7 +29,7 @@ In that spirit, I have code on the following forges:
 
 ## 📫 How to reach me
 
-* Fediverse (tech account): [@spacekookie@octodon.social](https://chaosfem.tw/@kookie)
+* Fediverse (tech account): [@kookie@chaosfem.tw](https://chaosfem.tw/@kookie)
 * I like getting e-mails: kookie@spacekookie.de
 * Matrix: [@spacekookie:fairydust.space](https://matrix.to/#/@spacekookie:fairydust.space)
 * IRC (libera.chat/ hackint): spacekookie
