@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Kookie
 
-I'm an independent software researcher living in Berlin. 
-I have a [sponsors] page, if you want to learn more about the open source work I do, and how you can tip me!
+I'm a software engineer and systems architect, primarily focused on distributed network and database systems.
 My pronouns are ✨ **she/they** ✨!
+
+I have a [sponsors] page, if you want to tip me for any of my open source work.
 
 ---
 
