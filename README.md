@@ -8,22 +8,15 @@ I have a [sponsors] page, if you want to tip me for any of my open source work.
 ---
 
 **I don't want to use GitHub!**  I believe that the internet should be a decentralised network,
-and that companies have far too much power over our lives.
-Github is no exception to this, and while I do have this account to participate in other people's projects,
-I try to minimise the number of projects I myself maintain on here.
+and that far too few companies have far too much power over our lives.
+Github/ Microsoft is no exception to this, and while I do have this account to participate in other people's projects,
+I try to minimise the number of projects I maintain on here myself.
 
-Unfortunately GitHub is a social necessity for those of us who produce code,
-reminiscent of the role of Facebook in the early 2010's for social engagements.
+As a programmer today Github is like Facebook in the 2010 💀 anyway
 
-Instead of GitHub, I try to distribute my work across a number of different forges.
-Additionally I try to evaluate new forges from time to time as well, to potentially discover a nice community of developers, or a better workflow.
-I think we should all strive to get off code-facebook.  I know this is hard, and the companies we work for make it even harder.
-But that's not a reason not to try.
+I mostly host my projects on codeberg these days and maybe you should too:
 
-In that spirit, I have code on the following forges:
-
-- 📚 https://codeberg.org/kookie — general purpose collective forge, which I use for most of my public projects currently
-- 🍵 https://cyberchaos.dev/kookie — CCC-adjacent forge where I keep my private infrastructure and Work-in-progress experiments
+**📚 https://codeberg.org/kookie 🍵
 
 [sponsors]: https://github.com/sponsors/spacekookie
 
